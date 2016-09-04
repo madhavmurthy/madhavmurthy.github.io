@@ -1,0 +1,1031 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"toE",
+				"toEqual"
+			],
+			[
+				"as",
+				"assignees"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"mock",
+				"mockPotentialAssignees"
+			],
+			[
+				"create",
+				"createSpy"
+			],
+			[
+				"trans",
+				"transformPotentialAssignees"
+			],
+			[
+				"po",
+				"potentialAssignees"
+			],
+			[
+				"crea",
+				"createSpy"
+			],
+			[
+				"moc",
+				"mockPotentialAssignees"
+			],
+			[
+				"pot",
+				"potentialAssignees"
+			],
+			[
+				"poten",
+				"PotentialAssignees"
+			],
+			[
+				"tra",
+				"transformedPotentialAssignees"
+			],
+			[
+				"no",
+				"notAssigned"
+			],
+			[
+				"p",
+				"potentialAssignees"
+			],
+			[
+				"NEw",
+				"NewIssueCtrl"
+			],
+			[
+				"g",
+				"getPotentialAssigneeHeader"
+			],
+			[
+				"potentia",
+				"potentialAssignees"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
+				"NewIss",
+				"NewIssueCtrl"
+			],
+			[
+				"New",
+				"NewIssueCtrl"
+			],
+			[
+				"an",
+				"angular-ui-select"
+			],
+			[
+				"angular",
+				"angular-sanitize"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n<!DOCTYPE html>\n<html lang=\"en-gb\" dir=\"ltr\">\n<head>\n        <meta charset=\"utf-8\">\n        <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n        <title>PRIME MARKETING - A trusted name in the field of ENT Specialty since 1995</title>\n        <link rel=\"shortcut icon\" href=\"/img/favicon.ico\" type=\"image/x-icon\">\n        <link rel=\"stylesheet\" href=\"/css/uikit.docs.min.css\">\n        <script src=\"/js/libs/jquery.js\"></script>\n        <script src=\"/js/uikit.min.js\"></script>\n        <script src=\"/js/components/slideshow.min.js\"></script>\n        <script src=\"/js/components/slideshow-fx.min.js\"></script>\n </head>\n<body>\n\n<div class=\"uk-container uk-container-center uk-margin-top uk-margin-large-bottom\">\n<div class=\"uk-grid uk-margin-small-bottom uk-margin-small-top\" data-uk-grid-margin>\n	<div class=\"uk-width-medium-5-8 uk-row-last\">\n		<a href=\"/\"><img src=\"/img/logo.png\" alt=\"logo\"></a>\n	</div>\n</div>\n",
+			"file": "_includes/header.html",
+			"file_size": 937,
+			"file_write_time": 131167052540000000,
+			"settings":
+			{
+				"buffer_size": 935,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/slider.html",
+			"settings":
+			{
+				"buffer_size": 752,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/uikit.css",
+			"settings":
+			{
+				"buffer_size": 177003,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/right-menu.html",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4048,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/nav-bar.html",
+			"settings":
+			{
+				"buffer_size": 1581,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/ga.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aravindhu/experiments/mm/pm",
+		"/Users/aravindhu/experiments/mm/pm/_includes",
+		"/Users/aravindhu/experiments/mm/pm/_layouts",
+		"/Users/aravindhu/experiments/mm/pm/js/components"
+	],
+	"file_history":
+	[
+		"/Users/aravindhu/experiments/mm/pm/_includes/nav-bar.html",
+		"/Users/aravindhu/experiments/mm/pm/css/uikit.docs.min.css",
+		"/Users/aravindhu/experiments/mm/pm/_includes/header.html",
+		"/Users/aravindhu/experiments/mm/pm/index.html",
+		"/Users/aravindhu/experiments/mm/pm/_site/about/index.html",
+		"/Users/aravindhu/experiments/mm/pm/untitled.sublime-project",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/styles/_event-log.styl",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/index.jsp.jade",
+		"/Users/aravindhu/Desktop/package com.aconex.fa.core.services",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/controllers/EventLogCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/common/controllers/EventLogCtrlSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/controllers/issues/IssueDetailsCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/services/issues/IssueHelper.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/services/issues/EventLogHelper.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/services/issues/EventLogHelperSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/views/event-log.html.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/filters/statusDisplayName.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/filters/assignmentDisplayName.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/controllers/settings/AreasSettingsCtrlSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/directives/issues/fmIssueDetails.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/controllers/issues/NewIssueCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/controllers/issues/NewIssueCtrlSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/views/issues/issue-details.html.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/directives/issues/fmSingleSelect.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/views/issues/assigned-to-filter.html.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/directives/issues/fmAssignedToList.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/uiapp.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/views/issues/single-select.html.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/directives/login/companynetwork/company-network-login.html.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/views/issues/new-issue.html.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/controllers/issues/SingleSelectCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/controllers/issues/DateRangeCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/directives/issues/fmNewIssue.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/directives/issues/fmNewIssueSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/translations/translation_en.json",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/translations/translation_zh.json",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/services/issues/IssueHelperSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/services/issues/Issue.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/common/services/UsersSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/services/Users.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/services/UserRoles.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/controllers/issues/AssignedToFilterCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/controllers/issues/AssignedToFilterCtrlSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/ui/directives/issues/fmAssignedToFilterSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/services/PotentialAssignees.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/services/Translation.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/spec/common/commonSpec.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/services/issues/IssuesListPageService.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/directives/login/companynetwork/fmContinueWithCompanyNetworkLoginForm.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/services/DatePickerService.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/controllers/CompatibilityMessageCtrl.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/test/helpers/common/angular-test-helper.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/filters/i18n.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/directives/fmEsc.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/common.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/karma-unit.conf.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/directives/fmFusionChart.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/bower.json",
+		"/Users/aravindhu/projects/field-management/ui/src/main/Gruntfile.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/version/index.jsp.jade",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/common/resources/scripts/services/Camelize.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/services/issues/SendMailHelper.js",
+		"/Users/aravindhu/projects/field-management/ui/src/main/js/app/ui/resources/scripts/controllers/issues/IssuesListPageCtrl.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uk-panel",
+			"/src",
+			"/src/fonts",
+			"fonts/fontawesome-webfont.ttf",
+			">\n",
+			"My first content ",
+			".event-log ",
+			".event-log table tr td span.event-value",
+			"$uibModal",
+			"fmSingleSelect",
+			"fm-issue-details",
+			"No Results",
+			"results",
+			"Not Assigned",
+			"Not assigned",
+			"Not Assigned",
+			"window",
+			"window.console",
+			"});\n",
+			");\n",
+			"assignees",
+			"'});\n",
+			"i18nFilter",
+			"fm-single-select",
+			"window.consolf.log",
+			"window.consolf.lo",
+			");\n",
+			"potentialAssigneesDefer",
+			"transformedPotentialAssignees",
+			"Not assigned",
+			"transform potential assignees transforms",
+			"AssignedToFilter",
+			"filterFns",
+			"$filter",
+			"UI.Issues.AssignedTo",
+			"i18nFilter",
+			"UI.Issues",
+			"should",
+			"should have dependency",
+			"should load dependency",
+			"UI.Issues.NewIssue.Description",
+			"angular.filter",
+			"ngRoute",
+			"fmFusionChart",
+			"IssueTypes",
+			"		'",
+			"bower_components",
+			"bower-components",
+			"ui.select",
+			"singleSelectCtrl",
+			"transformPotentialAssignees",
+			"potentialAssignees",
+			"SingleSelectCtrl",
+			"getValidFilteredOrgIds",
+			"areFilteredOrgsValid",
+			"getValidAssignedToOrgIds",
+			"hasValidAssignedToOrgs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/slider.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/uikit.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23223,
+								23223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 6.0,
+						"translation.y": 51026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/right-menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1788,
+								1788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 412.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_includes/nav-bar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 47.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "_includes/ga.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pm.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ui",
+				"css/uikit.css"
+			],
+			[
+				"na",
+				"_includes/nav-bar.html"
+			],
+			[
+				"uk",
+				"css/uikit.css"
+			],
+			[
+				"docs",
+				"css/uikit.docs.min.css"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"issue-assignee-select.html",
+				"js/app/ui/resources/views/issues/issue-assignee-select.html.jade"
+			],
+			[
+				"fmissueassi",
+				"js/app/ui/resources/scripts/directives/issues/fmIssueAssigneeSelect.js"
+			],
+			[
+				"issueassig",
+				"js/app/ui/resources/scripts/controllers/issues/IssueAssigneeSelectCtrl.js"
+			],
+			[
+				"fmui",
+				"js/app/ui/resources/scripts/directives/issues/fmIssueDetails.js"
+			],
+			[
+				"uise",
+				"js/app/ui/resources/scripts/directives/issues/fmuiSelectOpenOnFocus.js"
+			],
+			[
+				"issue-deta",
+				"js/app/ui/resources/views/issues/issue-details.html.jade"
+			],
+			[
+				"issuedetails",
+				"js/app/ui/resources/scripts/directives/issues/fmIssueDetails.js"
+			],
+			[
+				"eventloghe",
+				"js/test/spec/ui/services/issues/EventLogHelperSpec.js"
+			],
+			[
+				"assignmentdi",
+				"js/app/common/resources/scripts/filters/assignmentDisplayName.js"
+			],
+			[
+				"displayname",
+				"js/app/common/resources/scripts/filters/statusDisplayName.js"
+			],
+			[
+				"eventlogc",
+				"js/test/spec/common/controllers/EventLogCtrlSpec.js"
+			],
+			[
+				"issuehe",
+				"js/app/ui/resources/scripts/services/issues/IssueHelper.js"
+			],
+			[
+				"eventlog",
+				"js/test/spec/ui/services/issues/EventLogHelperSpec.js"
+			],
+			[
+				"event-log",
+				"js/app/common/resources/views/event-log.html.jade"
+			],
+			[
+				"eventh",
+				"js/test/spec/ui/services/issues/EventLogHelperSpec.js"
+			],
+			[
+				"event-",
+				"js/app/common/resources/views/event-log.html.jade"
+			],
+			[
+				"issuedeta",
+				"js/app/ui/resources/scripts/controllers/issues/IssueDetailsCtrl.js"
+			],
+			[
+				"fmi",
+				"js/app/ui/resources/scripts/directives/issues/fmIssueDetails.js"
+			],
+			[
+				"assigneme",
+				"js/app/common/resources/scripts/filters/assignmentDisplayName.js"
+			],
+			[
+				"status",
+				"js/app/common/resources/scripts/filters/statusDisplayName.js"
+			],
+			[
+				"eventlo",
+				"js/app/common/resources/scripts/controllers/EventLogCtrl.js"
+			],
+			[
+				"event-log.html",
+				"js/app/common/resources/views/event-log.html.jade"
+			],
+			[
+				"issuehel",
+				"js/app/ui/resources/scripts/services/issues/IssueHelper.js"
+			],
+			[
+				"issuedet",
+				"js/app/ui/resources/scripts/controllers/issues/IssueDetailsCtrl.js"
+			],
+			[
+				"new",
+				"js/test/spec/ui/controllers/issues/NewIssueCtrlSpec.js"
+			],
+			[
+				"assign",
+				"js/app/ui/resources/views/issues/assigned-to-filter.html.jade"
+			],
+			[
+				"single",
+				"js/app/ui/resources/scripts/controllers/issues/SingleSelectCtrl.js"
+			],
+			[
+				"singlesele",
+				"js/app/ui/resources/scripts/controllers/issues/SingleSelectCtrl.js"
+			],
+			[
+				"single-sele",
+				"js/app/ui/resources/views/issues/single-select.html.jade"
+			],
+			[
+				"fmsing",
+				"js/app/ui/resources/scripts/directives/issues/fmSingleSelect.js"
+			],
+			[
+				"fmissuedetails",
+				"js/app/ui/resources/scripts/directives/issues/fmIssueDetails.js"
+			],
+			[
+				"newissue",
+				"js/test/spec/ui/controllers/issues/NewIssueCtrlSpec.js"
+			],
+			[
+				"fmnew",
+				"js/test/spec/ui/directives/issues/fmNewIssueSpec.js"
+			],
+			[
+				"tra",
+				"js/app/common/resources/translations/translation_zh.json"
+			],
+			[
+				"trans",
+				"js/app/common/resources/translations/translation_en.json"
+			],
+			[
+				"issuehelper",
+				"js/app/ui/resources/scripts/services/issues/IssueHelper.js"
+			],
+			[
+				"issuede",
+				"js/app/ui/resources/scripts/controllers/issues/IssueDetailsCtrl.js"
+			],
+			[
+				"fmsi",
+				"js/app/ui/resources/scripts/directives/issues/fmSingleSelect.js"
+			],
+			[
+				"singleselec",
+				"js/app/ui/resources/scripts/controllers/issues/SingleSelectCtrl.js"
+			],
+			[
+				"singles",
+				"js/app/ui/resources/scripts/controllers/issues/SingleSelectCtrl.js"
+			],
+			[
+				"issue",
+				"js/app/ui/resources/scripts/services/issues/Issue.js"
+			],
+			[
+				"fmsinglese",
+				"js/app/ui/resources/scripts/directives/issues/fmSingleSelect.js"
+			],
+			[
+				"singleselect",
+				"js/app/ui/resources/scripts/controllers/issues/SingleSelectCtrl.js"
+			],
+			[
+				"newiss",
+				"js/test/spec/ui/controllers/issues/NewIssueCtrlSpec.js"
+			],
+			[
+				"newis",
+				"js/test/spec/ui/controllers/issues/NewIssueCtrlSpec.js"
+			],
+			[
+				"assignedto",
+				"js/test/spec/ui/controllers/issues/AssignedToFilterCtrlSpec.js"
+			],
+			[
+				"user",
+				"js/app/common/resources/scripts/services/UserRoles.js"
+			],
+			[
+				"issueh",
+				"js/app/ui/resources/scripts/services/issues/IssueHelper.js"
+			],
+			[
+				"iss",
+				"js/app/ui/resources/scripts/services/issues/Issue.js"
+			],
+			[
+				"poten",
+				"js/app/common/resources/scripts/services/PotentialAssignees.js"
+			],
+			[
+				"fmnewiss",
+				"js/test/spec/ui/directives/issues/fmNewIssueSpec.js"
+			],
+			[
+				"i1",
+				"js/app/common/resources/scripts/filters/i18n.js"
+			],
+			[
+				"angular",
+				"js/test/helpers/common/angular-test-helper.js"
+			],
+			[
+				"compa",
+				"js/app/common/resources/scripts/controllers/CompatibilityMessageCtrl.js"
+			],
+			[
+				"newissu",
+				"js/app/ui/resources/scripts/controllers/issues/NewIssueCtrl.js"
+			],
+			[
+				"common",
+				"js/test/spec/common/commonSpec.js"
+			],
+			[
+				"kar",
+				"karma-unit.conf.js"
+			],
+			[
+				"",
+				"js/app/common/resources/scripts/common.js"
+			],
+			[
+				"ne",
+				"js/app/ui/resources/scripts/controllers/issues/NewIssueCtrl.js"
+			],
+			[
+				"newissuectrlspec.js",
+				"js/test/spec/ui/controllers/issues/NewIssueCtrlSpec.js"
+			],
+			[
+				"index",
+				"js/app/ui/index.jsp.jade"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"fmne",
+				"js/app/ui/resources/scripts/directives/issues/fmNewIssue.js"
+			],
+			[
+				"single-",
+				"js/app/ui/resources/views/issues/single-select.html.jade"
+			],
+			[
+				"came",
+				"js/app/common/resources/scripts/services/Camelize.js"
+			],
+			[
+				"potenti",
+				"js/app/common/resources/scripts/services/PotentialAssignees.js"
+			],
+			[
+				"new-issue",
+				"js/app/ui/resources/views/issues/new-issue.html.jade"
+			],
+			[
+				"newisse",
+				"js/app/ui/resources/scripts/controllers/issues/NewIssueCtrl.js"
+			],
+			[
+				"issueslistpagectrl",
+				"js/app/ui/resources/scripts/controllers/issues/IssuesListPageCtrl.js"
+			],
+			[
+				"sendmailhelper",
+				"js/app/ui/resources/scripts/services/issues/SendMailHelper.js"
+			],
+			[
+				"issueslistpageservice",
+				"js/app/ui/resources/scripts/services/issues/IssuesListPageService.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 436.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
